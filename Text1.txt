@@ -1,3 +1,0 @@
-This is a test text to understand the functionality of commands.
-
-This line is written using Atom editor.
